@@ -1,5 +1,11 @@
 import java.util.Arrays;
 
+/**
+ * @author Keith Cooper
+ * @version 10/02/2021
+ * Examples of different sorting algorithms
+ */
+
 public class TestingSort {
 
 	public static void main(String[] args) {
